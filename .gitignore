@@ -1,0 +1,34 @@
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Jupyter / Python
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# LaTeX build files (keep .tex and .pdf, ignore the rest)
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+*.bbl
+*.blg
+
+# Office temp/lock files
+~$*
+.~lock.*#
+
+# Editor settings
+.vscode/
+.idea/
+
+# Misc
+*.tmp
+*.bak
