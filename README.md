@@ -112,3 +112,12 @@ Delete any line for a deliverable that doesn't exist (e.g. final manuals for non
   ```
 
 - Don't commit system files or checkpoints (`.DS_Store`, `.ipynb_checkpoints`). The template `.gitignore` covers these.
+
+## Attributions
+
+<!--
+Do NOT edit or remove the citation below; the square brackets are part of the citation.
+-->
+
+**Initial Template:**
+Anthropic. (2026, September 24). *AguaClara GitHub repository standardization* \[Generative AI chat\]. Claude Sonnet 5. [https://claude.ai/share/5a1f1b2b-c462-4490-a6bb-ee7eee4446a2](https://claude.ai/share/5a1f1b2b-c462-4490-a6bb-ee7eee4446a2)
